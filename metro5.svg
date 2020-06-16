@@ -434,9 +434,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="1054.1987"
-     inkscape:cx="1059.9777"
-     inkscape:zoom="0.25000001"
+     inkscape:cy="894.71893"
+     inkscape:cx="1753.3199"
+     inkscape:zoom="1.4142136"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -477,7 +477,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
       </cc:Work>
@@ -1401,15 +1401,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/tbmm.png"
        xlink:href="./resim/tbmm.png"
-       y="29.499998"
-       x="690"
-       id="image4791"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="22.5"
-       width="30"
+       transform="translate(-296.9187,-100.63539)"
        clip-path="url(#clipPath1279)"
-       transform="translate(-296.9187,-100.63539)" />
+       width="30"
+       height="22.5"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4791"
+       x="690"
+       y="29.499998" />
     <text
        id="text4796"
        y="-47.445774"
@@ -1438,15 +1438,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/19-mayis-stadyum.png"
        xlink:href="./resim/19-mayis-stadyum.png"
-       y="6.5928574"
-       x="690"
-       id="image4902"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="15.407143"
-       width="30"
+       transform="translate(-296.90738,-94.047906)"
        clip-path="url(#clipPath1285)"
-       transform="translate(-296.90738,-94.047906)" />
+       width="30"
+       height="15.407143"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4902"
+       x="690"
+       y="6.5928574" />
     <text
        id="text4909"
        y="-72.527184"
@@ -1468,13 +1468,13 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/ank-spor-salonu.png"
        xlink:href="./resim/ank-spor-salonu.png"
-       y="-35.635475"
-       x="393.08136"
-       id="image4927"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="30"
        height="20"
-       width="30" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4927"
+       x="393.08136"
+       y="-35.635475" />
     <text
        id="text1122"
        y="-15.385455"
@@ -1761,11 +1761,9 @@
          y="-66.885551"
          x="138.0811"
          id="tspan1617"
-         sodipodi:role="line"><tspan
-   id="tspan4915"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">450m </tspan> <tspan
+         sodipodi:role="line">450m  <tspan
    id="tspan6493"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:#000080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">H</tspan>  Onkoloji</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">H</tspan>  Onkoloji</tspan></text>
     <text
        id="text1644"
        y="-81.885643"
@@ -1778,7 +1776,7 @@
          x="3.0811348"
          sodipodi:role="line">600m  <tspan
    id="tspan6515"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:start;text-anchor:start;fill:#000000;stroke:#000080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">H</tspan>  Yenimahalle Devlet</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke:#000080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">H</tspan>  Yenimahalle Devlet</tspan></text>
     <text
        id="text4820"
        y="-151.88567"
@@ -1791,17 +1789,19 @@
          id="tspan4818"
          sodipodi:role="line"><tspan
    id="tspan6531"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:start;text-anchor:start;fill:#000000;stroke:#000080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">H</tspan>  Dr. Nafiz Körez</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke:#000080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">H</tspan><tspan
+   style="fill:#ffffff"
+   id="tspan2595">  </tspan>Dr. Nafiz Körez</tspan></text>
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/eryaman-stad.png"
        xlink:href="./resim/eryaman-stad.png"
-       y="-148.76076"
-       x="3.0812035"
-       id="image4854"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="30"
        height="16.875"
-       width="30" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4854"
+       x="3.0812035"
+       y="-148.76076" />
     <text
        id="text4859"
        y="-131.88574"
@@ -1849,34 +1849,6 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458299"><tspan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#000000"
    id="tspan1462">Otobüs</tspan> 242</tspan></text>
-    <g
-       transform="matrix(1.4900873,0,0,1.4900873,-380.59019,-170.93151)"
-       id="g2386">
-      <g
-         id="g2315"
-         clip-path="url(#clipPath2332)"
-         style="stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           y="58.11441"
-           x="343.08115"
-           height="10"
-           width="10"
-           id="rect2309"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-        <path
-           sodipodi:nodetypes="scccs"
-           inkscape:connector-curvature="0"
-           id="path2311"
-           d="m 348.08114,68.114404 c -3.72678,0 -4.99999,-9.999998 -4.99999,-9.999998 h 4.99999 c 0,0 10e-6,10.000002 5.00001,9.999998 z"
-           style="fill:#000080;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         d="m 345.0812,63.298304 c -0.44182,-2e-5 -0.80001,0.35812 -0.80003,0.79995 3e-5,0.44181 0.35821,0.79995 0.80003,0.79993 0.44178,-3e-5 0.79991,-0.35815 0.79994,-0.79993 -2e-5,-0.44179 -0.35815,-0.79992 -0.79994,-0.79995 z m 6.19983,0 c -0.44179,3e-5 -0.79992,0.35816 -0.79994,0.79995 3e-5,0.44178 0.35816,0.7999 0.79994,0.79993 0.44182,3e-5 0.80001,-0.35811 0.80004,-0.79993 -2e-5,-0.44183 -0.35821,-0.79998 -0.80004,-0.79995 z"
-         id="rect1285-6-0-0"
-         sodipodi:nodetypes="cccccccccc" />
-    </g>
     <rect
        transform="rotate(-45)"
        y="234.92133"
@@ -2749,15 +2721,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/resim/anitkabir.png"
        xlink:href="resim/anitkabir.png"
-       y="172"
-       x="495"
-       id="image1102"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="15.675001"
-       width="30"
+       transform="matrix(1.2,0,0,1.2,-358.91893,-153.09551)"
        clip-path="url(#clipPath1498)"
-       transform="matrix(1.2,0,0,1.2,-358.91893,-153.09551)" />
+       width="30"
+       height="15.675001"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1102"
+       x="495"
+       y="172" />
     <rect
        transform="rotate(-45)"
        y="174.52835"
@@ -2777,15 +2749,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/resim/asti.png"
        xlink:href="resim/asti.png"
-       transform="translate(-258.97947,-94.994203)"
-       clip-path="url(#clipPath623)"
-       y="173.1144"
-       x="378.08115"
-       id="image1389"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="30"
        height="20.000002"
-       width="30" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1389"
+       x="378.08115"
+       y="173.1144"
+       clip-path="url(#clipPath623)"
+       transform="translate(-258.97947,-94.994203)" />
     <rect
        transform="rotate(-45)"
        y="190.21729"
