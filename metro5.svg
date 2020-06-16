@@ -432,11 +432,11 @@
      inkscape:showpageshadow="false"
      units="mm"
      showgrid="true"
-     inkscape:current-layer="g4375"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="908.76475"
-     inkscape:cx="1823.3987"
-     inkscape:zoom="1.4142136"
+     inkscape:cy="1054.1987"
+     inkscape:cx="1059.9777"
+     inkscape:zoom="0.25000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -1399,8 +1399,8 @@
        id="rect834-46-2"
        style="fill:#000000;stroke:none;stroke-width:1.76777005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/home/asyncsus/metro-map/resim/tbmm.png"
-       xlink:href="resim/tbmm.png"
+       sodipodi:absref="/home/asyncsus/metro-map/./resim/tbmm.png"
+       xlink:href="./resim/tbmm.png"
        y="29.499998"
        x="690"
        id="image4791"
@@ -1436,8 +1436,8 @@
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';fill:#ffffff"
    id="tspan1404">Building</tspan> 275m</tspan></text>
     <image
-       sodipodi:absref="/home/asyncsus/metro-map/resim/19-mayis-stadyum.png"
-       xlink:href="resim/19-mayis-stadyum.png"
+       sodipodi:absref="/home/asyncsus/metro-map/./resim/19-mayis-stadyum.png"
+       xlink:href="./resim/19-mayis-stadyum.png"
        y="6.5928574"
        x="690"
        id="image4902"
@@ -1466,8 +1466,8 @@
    id="tspan1476"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:4px;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';fill:#ffffff">550m</tspan> </tspan></text>
     <image
-       sodipodi:absref="/home/asyncsus/metro-map/resim/ank-spor-salonu.png"
-       xlink:href="resim/ank-spor-salonu.png"
+       sodipodi:absref="/home/asyncsus/metro-map/./resim/ank-spor-salonu.png"
+       xlink:href="./resim/ank-spor-salonu.png"
        y="-35.635475"
        x="393.08136"
        id="image4927"
@@ -1793,8 +1793,8 @@
    id="tspan6531"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans Semi-Bold';text-align:start;text-anchor:start;fill:#000000;stroke:#000080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">H</tspan>  Dr. Nafiz Körez</tspan></text>
     <image
-       sodipodi:absref="/home/asyncsus/metro-map/resim/eryaman-stad.png"
-       xlink:href="resim/eryaman-stad.png"
+       sodipodi:absref="/home/asyncsus/metro-map/./resim/eryaman-stad.png"
+       xlink:href="./resim/eryaman-stad.png"
        y="-148.76076"
        x="3.0812035"
        id="image4854"
