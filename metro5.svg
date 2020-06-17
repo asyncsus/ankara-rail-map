@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="metro6.svg"
+   sodipodi:docname="metro5.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg8"
    version="1.1"
@@ -72,9 +72,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="1182.1637"
-     inkscape:cy="375.43248"
+     inkscape:zoom="1"
+     inkscape:cx="1896.1202"
+     inkscape:cy="493.22002"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -117,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -127,13 +127,13 @@
      id="layer1"
      transform="translate(-4.1161095,28.000022)">
     <path
-       style="fill:none;stroke:#008000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#008000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 694.99999,266.99997 -95,-95 h -70 l -20,20 h -30 l -30,-30 h -90 l -10,10 v 50"
        id="path860"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 139.99999,216.99997 h 345 l 10,-10 v -80 l -20,-20 h -340 L 24.999993,-3.0000222"
        id="path858"
        inkscape:connector-curvature="0"
@@ -160,7 +160,7 @@
        id="rect848"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <path
-       style="fill:none;stroke:#ff6600;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff6600;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 489.99999,181.99997 v -20 l -10,-10 h -70 V -8.0000222"
        id="path858-3"
        inkscape:connector-curvature="0"
@@ -174,19 +174,26 @@
        y="473.70258"
        transform="rotate(-45)" />
     <path
-       style="fill:none;stroke:#008080;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#008080;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 709.99999,251.99997 -90,-90 h -140 l -30,-30 H 119.99998 L 49.999992,61.999977"
        id="path860-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.00000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.50000001,0.50000001;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 484.99999,156.99997 10,10"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path1198"
+       d="m 484.64334,156.6404 5.23804,5.23804 4.76196,4.76196"
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.50000001, 0.50000001;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.50000001, 0.50000001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 485,157.00001 5.23804,5.23804 4.76196,4.76196"
        id="path934-7"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
     <rect
        transform="rotate(-45)"
-       y="452.48938"
+       y="452.48941"
        x="230.45789"
        height="2.9462767"
        width="2.9462767"
@@ -454,13 +461,13 @@
          sodipodi:role="line">Yenişehir</tspan></text>
     <text
        id="text1655"
-       y="149.88335"
+       y="152.00002"
        x="485"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan1653"
          style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="149.88335"
+         y="152.00002"
          x="485"
          sodipodi:role="line">Adliye</tspan></text>
     <text
@@ -1109,7 +1116,7 @@
        y="339.35229"
        transform="rotate(-45)" />
     <path
-       style="fill:none;stroke:#000080;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000080;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 319.99999,111.99998 V 41.999978"
        id="path2219"
        inkscape:connector-curvature="0" />
@@ -2104,15 +2111,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/tbmm.png"
        xlink:href="./resim/tbmm.png"
-       transform="translate(-140.29705,63.810362)"
-       clip-path="url(#clipPath1279-4)"
-       width="30"
-       height="22.5"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image4791"
+       y="29.499998"
        x="690"
-       y="29.499998" />
+       id="image4791"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="22.5"
+       width="30"
+       clip-path="url(#clipPath1279-4)"
+       transform="translate(-140.29705,63.810362)" />
     <text
        id="text4796"
        y="116.99997"
@@ -2139,15 +2146,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/19-mayis-stadyum.png"
        xlink:href="./resim/19-mayis-stadyum.png"
-       transform="translate(-175.30833,95.479252)"
-       clip-path="url(#clipPath1285-7)"
-       width="30"
-       height="15.407143"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image4902"
+       y="6.5928574"
        x="690"
-       y="6.5928574" />
+       id="image4902"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="15.407143"
+       width="30"
+       clip-path="url(#clipPath1285-7)"
+       transform="translate(-175.30833,95.479252)" />
     <text
        id="text4909"
        y="116.99997"
@@ -2167,13 +2174,13 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/ank-spor-salonu.png"
        xlink:href="./resim/ank-spor-salonu.png"
-       width="30.000002"
-       height="20"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image4927"
+       y="96.999969"
        x="585"
-       y="96.999969" />
+       id="image4927"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="20"
+       width="30.000002" />
     <text
        id="text1122"
        y="117.25"
@@ -2217,15 +2224,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/resim/anitkabir.png"
        xlink:href="resim/anitkabir.png"
-       transform="matrix(1.2,0,0,1.2,-202,-32.384962)"
-       clip-path="url(#clipPath1498)"
-       width="30"
-       height="15.675001"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image1102"
+       y="172"
        x="495"
-       y="172" />
+       id="image1102"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="15.675001"
+       width="30"
+       clip-path="url(#clipPath1498)"
+       transform="matrix(1.2,0,0,1.2,-202,-32.384962)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2240,15 +2247,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/resim/asti.png"
        xlink:href="resim/asti.png"
-       width="30"
-       height="20.000002"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image1389"
-       x="378.08115"
-       y="173.1144"
+       transform="translate(-59.943938,3.8913282)"
        clip-path="url(#clipPath623)"
-       transform="translate(-59.943938,3.8913282)" />
+       y="173.1144"
+       x="378.08115"
+       id="image1389"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="20.000002"
+       width="30" />
     <text
        id="text1074"
        y="197"
@@ -2324,13 +2331,13 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/eryaman-stad.png"
        xlink:href="./resim/eryaman-stad.png"
-       width="30.000002"
-       height="16.875"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
-       id="image4854"
+       y="25.124992"
        x="142.88338"
-       y="25.124992" />
+       id="image4854"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="16.875"
+       width="30.000002" />
     <text
        id="text4859"
        y="42.000008"
