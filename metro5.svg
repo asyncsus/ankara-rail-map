@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="metro5.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 741.42822 315.93137"
+   width="741.42822mm"
    height="315.93137mm"
-   width="741.42822mm">
+   viewBox="0 0 741.42822 315.93137"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="metro5.svg">
   <defs
      id="defs2">
     <clipPath
@@ -72,11 +72,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1896.1202"
-     inkscape:cy="493.22002"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="586.45888"
+     inkscape:cy="275.33615"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="true"
@@ -122,16 +122,378 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="yollar"
+     style="display:inline">
+    <path
+       transform="translate(-4.1161094,28.000021)"
+       style="fill:none;stroke:#e6e6e6;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 487.64582,214.60271 H 210.05417"
+       id="path7038"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       transform="translate(-4.1161094,28.000021)"
+       style="fill:none;stroke:#e6e6e6;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 347.47083,226.78335 v -55.60414 l 11.64428,-11.65156 91.91015,-0.0237 29.96219,30.12626 28.24301,-0.0251 19.71121,-19.72174 H 600"
+       id="path6917"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       transform="translate(-4.1161094,28.000021)"
+       style="fill:none;stroke:#e6e6e6;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 469.99999,217.00001 v -25 l 25.00001,-25"
+       id="path3196"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.88903,242.49123 40.58222,0.0407 4.41264,-4.11941 -5,-5 9.9859,9.22793 20.0141,-0.0217"
+       id="path7165"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 488.37035,220.00003 V 155.5292 l -18.41252,-18.01563 -109.15731,-0.008 -15.4458,15.32705"
+       id="path7185"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#e6e6e6;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 177.15471,137.49749 -47.31517,0.0117 -29.19315,-29.19772"
+       id="path7038-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 350.88388,195.00003 10,10 h 25.00001 v 20 h 20 l 0,20"
+       id="path7361"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="sokak adları">
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       id="text3200"
+       y="470.70911"
+       x="-192.60674"
+       transform="rotate(-90,11.941956,16.058065)"><tspan
+         sodipodi:role="line"
+         id="tspan3198"
+         x="-192.60674"
+         y="470.70911"
+         style="font-size:2.11666656px;text-align:end;text-anchor:end;fill:#999999;stroke-width:0.26458332;">Necatibey</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="197.32404"
+       y="468.85306"
+       id="text6913"
+       transform="rotate(-45,31.740961,18.968593)"><tspan
+         sodipodi:role="line"
+         id="tspan6911"
+         x="197.32404"
+         y="468.85306"
+         style="font-size:2.11666656px;text-align:start;text-anchor:start;fill:#999999;stroke-width:0.26458332;">Cad.</tspan></text>
+    <text
+       transform="translate(-4.1161094,28.000021)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       id="text6957"
+       y="160.14795"
+       x="436.58752"><tspan
+         sodipodi:role="line"
+         id="tspan6955"
+         x="436.58752"
+         y="160.14795"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Gazi</tspan></text>
+    <text
+       transform="translate(-4.1161094,28.000021)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="445.53806"
+       y="160.12674"
+       id="text6964"><tspan
+         sodipodi:role="line"
+         x="445.53806"
+         y="160.12674"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;"
+         id="tspan6966">Mustafa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="436.93976"
+       y="-205.40494"
+       id="text6972"
+       transform="rotate(45,-35.85707,9.0314255)"><tspan
+         sodipodi:role="line"
+         id="tspan6970"
+         x="436.93976"
+         y="-205.40494"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Kemal Cd.</tspan></text>
+    <text
+       transform="translate(-4.1161094,28.000021)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="368.17505"
+       y="160.22545"
+       id="text6976"><tspan
+         sodipodi:role="line"
+         id="tspan6974"
+         x="368.17505"
+         y="160.22545"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Bahriye Üçok Cd.</tspan></text>
+    <text
+       transform="translate(-4.1161094,28.000021)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="395"
+       y="160.1787"
+       id="text6976-4"><tspan
+         sodipodi:role="line"
+         id="tspan6974-3"
+         x="395"
+         y="160.1787"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Dögol Cd.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       id="text6957-5"
+       y="494.74356"
+       x="234.60989"
+       transform="rotate(-45,31.740961,18.968593)"><tspan
+         sodipodi:role="line"
+         id="tspan6955-1"
+         x="234.60989"
+         y="494.74356"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Ziya</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       id="text6957-7"
+       y="494.71347"
+       x="246.6062"
+       transform="rotate(-45,31.740961,18.968593)"><tspan
+         sodipodi:role="line"
+         id="tspan6955-4"
+         x="246.6062"
+         y="494.71347"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Gökalp Cd.</tspan></text>
+    <text
+       transform="translate(-4.1161094,28.000021)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       id="text6957-3"
+       y="170.34639"
+       x="542.9104"><tspan
+         sodipodi:role="line"
+         id="tspan6955-14"
+         x="542.9104"
+         y="170.34639"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Cemal</tspan></text>
+    <text
+       transform="translate(-4.1161094,28.000021)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       id="text6957-6"
+       y="170.34639"
+       x="556.38904"><tspan
+         sodipodi:role="line"
+         id="tspan6955-9"
+         x="556.38904"
+         y="170.34639"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Gürsel Cd.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="440"
+       y="215.1787"
+       id="text6976-4-4"
+       transform="translate(-4.1161094,28.000021)"><tspan
+         sodipodi:role="line"
+         id="tspan6974-3-2"
+         x="440"
+         y="215.1787"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">İsmet İn Bulvarı</tspan></text>
+    <text
+       transform="translate(-4.1161094,28.000021)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="380"
+       y="215.1787"
+       id="text6976-4-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan6974-3-2-6"
+         x="380"
+         y="215.1787"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Dumlupınar Bulvarı</tspan></text>
+    <text
+       transform="translate(-4.1161094,28.000021)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="282.35413"
+       y="215.1787"
+       id="text6976-4-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan6974-3-2-1"
+         x="282.35413"
+         y="215.1787"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Dumlupınar Bulvarı</tspan></text>
+    <text
+       transform="translate(-4.1161094,28.000021)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="232.64581"
+       y="215.1787"
+       id="text6976-4-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan6974-3-2-2"
+         x="232.64581"
+         y="215.1787"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332;">Dumlupınar Bulvarı</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text3200-8"
+       y="489.05179"
+       x="-169.786"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan3198-6"
+         x="-169.786"
+         y="489.05179"
+         style="font-size:2.11666656px;text-align:end;text-anchor:end;fill:#999999;stroke-width:0.26458332">Atatürk Bulvarı</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="450.29269"
+       y="-234.29781"
+       id="text6972-8"
+       transform="rotate(45)"><tspan
+         sodipodi:role="line"
+         id="tspan6970-3"
+         x="450.29269"
+         y="-234.29781"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">İstiklal Cd.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="444.69644"
+       y="138.30038"
+       id="text6972-83"><tspan
+         sodipodi:role="line"
+         id="tspan6970-33"
+         x="444.69644"
+         y="138.30038"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">İstanbul Cd.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="147.37668"
+       y="353.10117"
+       id="text6972-83-6"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan6970-33-8"
+         x="147.37668"
+         y="353.10117"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">Fatih Sultan Mehmet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="363.23801"
+       y="138.17871"
+       id="text6976-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan6974-3-9"
+         x="363.23801"
+         y="138.17871"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">Blv.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="179.34706"
+       y="6.0523181"
+       id="text6972-3"
+       transform="rotate(45)"><tspan
+         sodipodi:role="line"
+         id="tspan6970-2"
+         x="179.34706"
+         y="6.0523181"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">Başkent Blv.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="374.05893"
+       y="205.77773"
+       id="text6976-2"><tspan
+         sodipodi:role="line"
+         id="tspan6974-6"
+         x="374.05893"
+         y="205.77773"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">Gabdulla Tukay Cd.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="215.17195"
+       y="-385.21594"
+       id="text6976-2-5"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan6974-6-8"
+         x="215.17195"
+         y="-385.21594"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">Kazakistan Cd.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="395.92459"
+       y="225.77977"
+       id="text6972-7"><tspan
+         sodipodi:role="line"
+         id="tspan6970-9"
+         x="395.92459"
+         y="225.77977"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">W. Thomsen Cd.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="233.4019"
+       y="-405.17499"
+       id="text6972-6"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan6970-0"
+         x="233.4019"
+         y="-405.17499"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">Aşkabat Cd.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="153.52971"
+       y="243.17871"
+       id="text6976-4-4-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan6974-3-2-2-1"
+         x="153.52971"
+         y="243.17871"
+         style="font-size:2.11666656px;fill:#999999;stroke-width:0.26458332">Ankaralılar Caddesi</tspan></text>
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-4.1161095,28.000022)">
     <path
        style="fill:none;stroke:#008000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 694.99999,266.99997 -95,-95 h -70 l -20,20 h -30 l -30,-30 h -90 l -10,10 v 50"
+       d="m 694.99999,266.99997 -95,-95 h -70 l -20,20 h -30 l -30,-30 h -90 l -10,10 10e-6,35.00004 -15,15"
        id="path860"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
+       sodipodi:nodetypes="cccccccccc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 139.99999,216.99997 h 345 l 10,-10 v -80 l -20,-20 h -340 L 24.999993,-3.0000222"
@@ -461,14 +823,14 @@
          sodipodi:role="line">Yenişehir</tspan></text>
     <text
        id="text1655"
-       y="152.00002"
-       x="485"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       y="150.17497"
+       x="487.64587"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan1653"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="152.00002"
-         x="485"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="150.17497"
+         x="487.64587"
          sodipodi:role="line">Adliye</tspan></text>
     <text
        id="text1659"
@@ -660,18 +1022,18 @@
        id="rect1736"
        width="2.9462767"
        height="2.9462767"
-       x="92.572075"
-       y="399.45636"
+       x="85.500992"
+       y="392.38535"
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="355"
-       y="226.99998"
+       x="340"
+       y="227.00002"
        id="text1740"><tspan
          sodipodi:role="line"
-         x="355"
-         y="226.99998"
+         x="340"
+         y="227.00002"
          style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332"
          id="tspan1738">Söğütözü</tspan></text>
     <rect
@@ -1112,8 +1474,8 @@
        id="rect1712-6"
        width="2.9462767"
        height="2.9462767"
-       x="188.03148"
-       y="339.35229"
+       x="166.81827"
+       y="318.13913"
        transform="rotate(-45)" />
     <path
        style="fill:none;stroke:#000080;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1155,12 +1517,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="375"
-       y="116.99997"
+       x="345.00003"
+       y="117"
        id="text1716-3"><tspan
          sodipodi:role="line"
-         x="375"
-         y="116.99997"
+         x="345.00003"
+         y="117"
          style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
          id="tspan1714-7">İvedik</tspan></text>
     <text
@@ -2082,22 +2444,22 @@
        width="30.000002"
        height="10"
        x="485"
-       y="127.00001"
+       y="129.11665"
        ry="0.80658495" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#55ffdd;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="500"
-       y="131.28377"
+       y="133.40041"
        id="text3414"><tspan
          sodipodi:role="line"
          id="tspan3412"
          x="500"
-         y="131.28377"
+         y="133.40041"
          style="font-size:4.93888903px;fill:#55ffdd;stroke-width:0.26458332">Gençlik</tspan><tspan
          sodipodi:role="line"
          x="500"
-         y="136.22266"
+         y="138.33929"
          style="font-size:4.93888903px;fill:#55ffdd;stroke-width:0.26458332"
          id="tspan3416">Parkı</tspan></text>
     <rect
@@ -2111,15 +2473,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/tbmm.png"
        xlink:href="./resim/tbmm.png"
-       y="29.499998"
-       x="690"
-       id="image4791"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="22.5"
-       width="30"
+       transform="translate(-140.29705,63.810362)"
        clip-path="url(#clipPath1279-4)"
-       transform="translate(-140.29705,63.810362)" />
+       width="30"
+       height="22.5"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4791"
+       x="690"
+       y="29.499998" />
     <text
        id="text4796"
        y="116.99997"
@@ -2146,15 +2508,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/19-mayis-stadyum.png"
        xlink:href="./resim/19-mayis-stadyum.png"
-       y="6.5928574"
-       x="690"
-       id="image4902"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="15.407143"
-       width="30"
+       transform="translate(-175.30833,95.479252)"
        clip-path="url(#clipPath1285-7)"
-       transform="translate(-175.30833,95.479252)" />
+       width="30"
+       height="15.407143"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4902"
+       x="690"
+       y="6.5928574" />
     <text
        id="text4909"
        y="116.99997"
@@ -2174,13 +2536,13 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/ank-spor-salonu.png"
        xlink:href="./resim/ank-spor-salonu.png"
-       y="96.999969"
-       x="585"
-       id="image4927"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="30.000002"
        height="20"
-       width="30.000002" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4927"
+       x="585"
+       y="96.999969" />
     <text
        id="text1122"
        y="117.25"
@@ -2224,15 +2586,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/resim/anitkabir.png"
        xlink:href="resim/anitkabir.png"
-       y="172"
-       x="495"
-       id="image1102"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="15.675001"
-       width="30"
+       transform="matrix(1.2,0,0,1.2,-202,-32.384962)"
        clip-path="url(#clipPath1498)"
-       transform="matrix(1.2,0,0,1.2,-202,-32.384962)" />
+       width="30"
+       height="15.675001"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1102"
+       x="495"
+       y="172" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2247,15 +2609,15 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/resim/asti.png"
        xlink:href="resim/asti.png"
-       transform="translate(-59.943938,3.8913282)"
-       clip-path="url(#clipPath623)"
-       y="173.1144"
-       x="378.08115"
-       id="image1389"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="30"
        height="20.000002"
-       width="30" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1389"
+       x="378.08115"
+       y="173.1144"
+       clip-path="url(#clipPath623)"
+       transform="translate(-59.943938,3.8913282)" />
     <text
        id="text1074"
        y="197"
@@ -2275,17 +2637,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:2.82222247px;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="355"
-       y="230.94168"
+       x="340"
+       y="230.94171"
        id="text9207"><tspan
          sodipodi:role="line"
-         x="355"
-         y="230.94168"
+         x="340"
+         y="230.94171"
          style="font-size:2.82222223px;line-height:2.82222247px;text-align:start;text-anchor:start;stroke-width:0.26458332"
          id="tspan9213">Çukurambar</tspan><tspan
          sodipodi:role="line"
-         x="355"
-         y="234.41692"
+         x="340"
+         y="234.41695"
          style="font-size:2.82222223px;line-height:2.82222247px;text-align:start;text-anchor:start;stroke-width:0.26458332"
          id="tspan9217">Armada AVM</tspan></text>
     <text
@@ -2331,13 +2693,13 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/eryaman-stad.png"
        xlink:href="./resim/eryaman-stad.png"
-       y="25.124992"
-       x="142.88338"
-       id="image4854"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="30.000002"
        height="16.875"
-       width="30.000002" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4854"
+       x="142.88338"
+       y="25.124992" />
     <text
        id="text4859"
        y="42.000008"
@@ -2360,5 +2722,36 @@
          x="140"
          y="44.281803"
          style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-195.22479"
+       y="348.15753"
+       id="text6976-8"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan6974-8"
+         x="-195.22479"
+         y="348.15753"
+         style="font-size:2.11666656px;text-align:start;text-anchor:start;fill:#999999;stroke-width:0.26458332">Mevlana Blv.</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1712-6-6"
+       width="2.9462767"
+       height="2.9462767"
+       x="188.03146"
+       y="339.35233"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="375.00003"
+       y="117"
+       id="text1716-3-89"><tspan
+         sodipodi:role="line"
+         x="375.00003"
+         y="117"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1714-7-0">Akköprü</tspan></text>
   </g>
 </svg>
