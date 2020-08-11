@@ -79,9 +79,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="596.59071"
-     inkscape:cy="964.90151"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="1908.2511"
+     inkscape:cy="459.67137"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -92,8 +92,8 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-global="true"
      inkscape:snap-others="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-width="1325"
+     inkscape:window-height="750"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -124,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -465,16 +465,16 @@
      transform="translate(-4.1161095,28.000022)">
     <path
        style="fill:none;stroke:#0a6c1b;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 694.99999,266.99997 -95,-95 h -70 L 505,197.00001 h -20 l -35.00001,-35.00004 h -90 l -10,10 10e-6,35.00004 -15,15"
+       d="M 694.99999,266.99997 605,177.00001 c -5,-5 -5,-5 -10,-5 h -60 c -5,0 -5,0 -10,5 l -15,15 c -5,5 -4.98077,5 -10,5 h -10 c -5,0 -5,0 -10,-5 l -25,-25 c -5,-5 -5,-5 -10,-5 l -80,0 c -5,0 -5,0 -10,5 -5,5 -5,5 -5.00001,10.03784 L 350,202.00001 c 0,5 0,5 -5,10 l -10,10"
        id="path860"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccc" />
     <path
        style="fill:none;stroke:#e10000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 139.99999,216.99997 h 345 l 10,-10 v -80 l -20,-20 h -340 L 24.999993,-3.0000222"
+       d="M 139.99999,216.99997 480,217.00001 c 5,0 5,0 10.01372,-5.01377 C 495,207.00001 495,207.00001 495,202.00001 l 0,-70 c 0,-5 0,-5 -5,-10 l -10,-10 c -5,-5 -5,-5 -10,-5 H 140 c -5,0 -5,0 -10,-5 L 24.999993,-3.0000222"
        id="path858"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="ccccccccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 485,177.00001 20,20"
@@ -499,10 +499,10 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <path
        style="fill:none;stroke:#ff9238;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 485,177.00001 v -20 l -5.00001,-5.00004 h -70 V -8.0000222"
+       d="m 485,187.00001 0,-25 c 0,-5 0,-5 -2.51354,-7.48646 C 480,152.00001 480,152.00001 474.92475,151.99997 L 425,152.00001 c -5,0 -5,0 -10,-5 -5,-5 -5,-5 -5,-10 l -10e-6,-145.0000322"
        id="path858-3"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cccccccc" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect850"
@@ -513,10 +513,10 @@
        transform="rotate(-45)" />
     <path
        style="fill:none;stroke:#00afa1;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 709.99999,251.99997 -90,-90 h -140 l -30,-30 H 119.99998 L 49.999992,61.999977"
+       d="M 709.99999,251.99997 625,167.00001 c -5,-5 -5,-5 -10,-5 H 485 c -5,0 -5,0 -10,-5 l -20,-20 c -5,-5 -5,-5 -10,-5 l -320,0 c -5,0 -5,0 -10,-5 L 49.999992,61.999977"
        id="path860-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.50000001, 0.50000001;stroke-dashoffset:0;stroke-opacity:1"
        d="m 485,157.00001 5.23804,5.23804 4.76196,4.76196"
@@ -639,7 +639,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="55"
        y="147"
        id="text1599"><tspan
@@ -647,17 +647,18 @@
          id="tspan1597"
          x="55"
          y="151.5636"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
     <g
        id="g1917"
-       transform="translate(361.00416,-5.000027)">
+       transform="translate(364.70835,-5.000027)">
       <rect
          y="141.17868"
-         x="54.209568"
+         x="54.738735"
          height="11.994616"
          width="32.564003"
          id="rect1017"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.42745769;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.42745769;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         ry="0.82135338" />
       <g
          id="g4395"
          transform="translate(-513.66772,38.539098)">
@@ -756,38 +757,38 @@
          id="text1603"
          y="146.30617"
          x="66.562981"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-size:4.93888903px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;text-anchor:start;stroke-width:0.26458332"
            y="146.30617"
            x="66.562981"
            id="tspan1601"
            sodipodi:role="line">Ankara </tspan><tspan
            id="tspan1605"
-           style="font-size:4.93888903px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;text-anchor:start;stroke-width:0.26458332"
            y="151.95061"
            x="66.562981"
            sodipodi:role="line">YHT Gar</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="500"
        y="171.99998"
        id="text1603-9"><tspan
          sodipodi:role="line"
          x="500"
          y="171.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1605-2">Sıhhiye</tspan></text>
     <text
        id="text1651"
        y="156.99998"
        x="500"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan1649"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="156.99998"
          x="500"
          sodipodi:role="line">Yenişehir</tspan></text>
@@ -795,10 +796,10 @@
        id="text1655"
        y="149.35422"
        x="485"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan1653"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="149.35422"
          x="485"
          sodipodi:role="line">Adliye</tspan></text>
@@ -806,91 +807,91 @@
        id="text1659"
        y="206.06868"
        x="507.89435"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan1657"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="206.06868"
          x="507.89435"
          sodipodi:role="line">Kızılay</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="467.01962"
        y="186.99998"
        id="text1667"><tspan
          sodipodi:role="line"
          x="467.01962"
          y="186.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:end;text-anchor:end;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:end;text-anchor:end;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1665">Demirtepe</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="440"
        y="171.99998"
        id="text1671"><tspan
          sodipodi:role="line"
          x="440"
          y="171.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1669">Maltepe</tspan></text>
     <text
        id="text1679"
        y="179.66985"
        x="550"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan1677"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="179.66985"
          x="550"
          sodipodi:role="line">Kurtuluş</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="539.66443"
        y="157.01799"
        id="text1683"><tspan
          sodipodi:role="line"
          x="539.66443"
          y="157.01799"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1681">Kurtuluş</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="519.52832"
        y="190.66959"
        id="text1687"><tspan
          sodipodi:role="line"
          x="519.52832"
          y="190.66959"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1685">Kolej <tspan
-   style="font-size:2.82222222px;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+   style="font-size:2.82222222px;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
    id="tspan9349"><tspan
-   style="font-size:3.52777778px"
+   style="font-size:3.52777778px;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
    id="tspan3549">TED Üni</tspan>.</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="580"
        y="179.85028"
        id="text1691"><tspan
          sodipodi:role="line"
          x="580"
          y="179.85028"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1689">Dikimevi</tspan></text>
     <text
        id="text1695"
        y="156.99998"
        x="570"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan1693"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="156.99998"
          x="570"
          sodipodi:role="line">Cebeci</tspan></text>
@@ -906,10 +907,10 @@
        id="text1701"
        y="171.99998"
        x="410"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan1699"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="171.99998"
          x="410"
          sodipodi:role="line">Tandoğan</tspan></text>
@@ -923,14 +924,14 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="380"
        y="171.99998"
        id="text1716"><tspan
          sodipodi:role="line"
          x="380"
          y="171.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714">Beşevler</tspan></text>
     <rect
        transform="rotate(-45)"
@@ -944,10 +945,10 @@
        id="text1722"
        y="161.99998"
        x="355"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan1720"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:end;text-anchor:end;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:end;text-anchor:end;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="161.99998"
          x="355"
          sodipodi:role="line">Bahçelievler</tspan></text>
@@ -961,14 +962,14 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="355"
        y="189.08336"
        id="text1728"><tspan
          sodipodi:role="line"
          x="355"
          y="189.08336"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1726">Emek</tspan></text>
     <rect
        transform="rotate(-45)"
@@ -982,10 +983,10 @@
        id="text1734"
        y="204.08334"
        x="355"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan1732"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="204.08334"
          x="355"
          sodipodi:role="line">AŞTİ</tspan></text>
@@ -999,14 +1000,14 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="340"
        y="227.00002"
        id="text1740"><tspan
          sodipodi:role="line"
          x="340"
          y="227.00002"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1738">Söğütözü</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -1026,23 +1027,23 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="405"
        y="227.00002"
        id="text1748"><tspan
          sodipodi:role="line"
          x="405"
          y="227.00002"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1746">Milli Kütüphane</tspan></text>
     <text
        id="text1752"
        y="226.99998"
        x="470"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan1750"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="226.99998"
          x="470"
          sodipodi:role="line">Necatibey</tspan></text>
@@ -1056,14 +1057,14 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="490"
        y="116.99999"
        id="text1758"><tspan
          sodipodi:role="line"
          x="490"
          y="116.99999"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1756">Ulus</tspan></text>
     <path
        inkscape:connector-curvature="0"
@@ -1089,14 +1090,14 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="414.79504"
        y="116.95047"
        id="text1777"><tspan
          sodipodi:role="line"
          x="414.79504"
          y="116.95047"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1775">Atatürk Kültür Merkezi</tspan></text>
     <rect
        transform="rotate(-45)"
@@ -1167,9 +1168,9 @@
        id="text1061"
        y="74.083359"
        x="415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke-width:0.26458299;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke-width:0.26458299;"
          y="74.083359"
          x="415"
          id="tspan1059"
@@ -1179,9 +1180,9 @@
        id="text1065"
        y="64.083359"
        x="415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke-width:0.26458299;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke-width:0.26458299;"
          y="64.083359"
          x="415"
          id="tspan1063"
@@ -1191,9 +1192,9 @@
        id="text1069"
        y="54.083328"
        x="415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke-width:0.26458299;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke-width:0.26458299;"
          y="54.083328"
          x="415"
          id="tspan1067"
@@ -1203,9 +1204,9 @@
        id="text1073"
        y="44.083328"
        x="415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke-width:0.26458299;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke-width:0.26458299;"
          y="44.083328"
          x="415"
          id="tspan1071"
@@ -1215,9 +1216,9 @@
        id="text1077"
        y="34.083302"
        x="415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke-width:0.26458299;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke-width:0.26458299;"
          y="34.083302"
          x="415"
          id="tspan1075"
@@ -1227,9 +1228,9 @@
        id="text1081"
        y="24.083324"
        x="415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke-width:0.26458299;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke-width:0.26458299;"
          y="24.083324"
          x="415"
          id="tspan1079"
@@ -1239,9 +1240,9 @@
        id="text1085"
        y="14.083325"
        x="415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke-width:0.26458299;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke-width:0.26458299;"
          y="14.083325"
          x="415"
          id="tspan1083"
@@ -1251,33 +1252,33 @@
        id="text1089"
        y="4.0833097"
        x="415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke-width:0.26458299;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke-width:0.26458299;"
          y="4.0833097"
          x="415"
          id="tspan1087"
          sodipodi:role="line">Şehitler</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:3.94000006px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:3.94000006px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="414.68427"
        y="93.263275"
        id="text1921"><tspan
          sodipodi:role="line"
          x="414.68427"
          y="93.263275"
-         style="font-size:3.52777778px;line-height:3px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:3.52777778px;line-height:3px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1923">[350m] AKM Fuar Alanı ─ Festival Area</tspan><tspan
          sodipodi:role="line"
          x="414.68427"
          y="97.203278"
-         style="font-size:3.52777778px;line-height:3px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:3.52777778px;line-height:3px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1931">[1km] Ankara Büyükşehir Belediyesi ─ </tspan><tspan
          sodipodi:role="line"
          x="414.68427"
          y="101.14327"
-         style="font-size:3.52777778px;line-height:3px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:3.52777778px;line-height:3px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1937">Metropolitan Municipality</tspan></text>
     <rect
        transform="rotate(-45)"
@@ -1345,101 +1346,101 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="320"
        y="226.99998"
        id="text1748-6"><tspan
          sodipodi:role="line"
          x="320"
          y="226.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1746-3">MTA</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="295"
        y="226.99998"
        id="text1748-6-5"><tspan
          sodipodi:role="line"
          x="295"
          y="226.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1746-3-0">ODTÜ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="270"
        y="226.99998"
        id="text1748-6-5-4"><tspan
          sodipodi:role="line"
          x="270"
          y="226.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1746-3-0-1">Bilkent</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="244.99997"
        y="226.99998"
        id="text1748-6-5-1"><tspan
          sodipodi:role="line"
          x="245.65041"
          y="226.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1746-3-0-3">Tarım </tspan><tspan
          sodipodi:role="line"
          x="244.99997"
          y="232.64442"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan2096">Bakanlığı,</tspan><tspan
          sodipodi:role="line"
          x="244.99997"
          y="238.28888"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan2086">Danıştay</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="219.99997"
        y="226.99998"
        id="text1748-6-5-5"><tspan
          sodipodi:role="line"
          x="219.99997"
          y="226.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1746-3-0-9">Beytepe</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="194.99997"
        y="226.99998"
        id="text1748-6-5-3"><tspan
          sodipodi:role="line"
          x="194.99997"
          y="226.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1746-3-0-4">Ümitköy</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="169.99997"
        y="226.99998"
        id="text1748-6-5-15"><tspan
          sodipodi:role="line"
          x="169.99997"
          y="226.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1746-3-0-0">Çayyolu</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="144.99997"
        y="226.99998"
        id="text1748-6-5-8"><tspan
          sodipodi:role="line"
          x="144.99997"
          y="226.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1746-3-0-35">Koru</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -1488,36 +1489,36 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="345.00003"
        y="117"
        id="text1716-3"><tspan
          sodipodi:role="line"
          x="345.00003"
          y="117"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-7">İvedik</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="324.94073"
        y="101.95059"
        id="text1716-6"><tspan
          sodipodi:role="line"
          x="324.94073"
          y="101.95059"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-1">Yenimahalle</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="295"
        y="116.99999"
        id="text1716-5"><tspan
          sodipodi:role="line"
          x="295"
          y="116.99999"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-0">Demetevler</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1543,58 +1544,58 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="265"
        y="116.99999"
        id="text1716-5-8"><tspan
          sodipodi:role="line"
          x="265"
          y="116.99999"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-0-1">Hastane</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="174.99997"
        y="116.99999"
        id="text1716-5-8-2"><tspan
          sodipodi:role="line"
          x="174.99997"
          y="116.99999"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-0-1-2">Batıkent</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="144.99997"
        y="116.99999"
        id="text1716-5-8-2-6"><tspan
          sodipodi:role="line"
          x="144.99997"
          y="116.99999"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-0-1-2-9">Batımerkez</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="234.99997"
        y="116.99999"
        id="text1716-5-8-1"><tspan
          sodipodi:role="line"
          x="234.99997"
          y="116.99999"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-0-1-0">Macunköy</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="204.99997"
        y="116.99999"
        id="text1716-5-8-1-4"><tspan
          sodipodi:role="line"
          x="204.99997"
          y="116.99999"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-0-1-0-2">OSTİM</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -1694,7 +1695,7 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;"
        x="124.99998"
        y="91.999977"
        id="text2408"><tspan
@@ -1702,14 +1703,14 @@
          id="tspan2406"
          x="124.99998"
          y="91.999977"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none">Mesa <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;text-anchor:start;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;">Mesa <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;"
    id="tspan9645">[600m] Yenimahalle Devlet </tspan><tspan
    id="tspan3551"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#ffffff;stroke:#000080;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;font-size:3.52777778px">H</tspan></tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;fill:#ffffff;stroke:#000080;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;font-size:3.52777778px;">H</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="114.99998"
        y="81.999977"
        id="text2412"><tspan
@@ -1717,10 +1718,10 @@
          id="tspan2410"
          x="114.99998"
          y="81.999977"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Botanik</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Botanik</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="104.99998"
        y="71.999977"
        id="text2416"><tspan
@@ -1728,10 +1729,10 @@
          id="tspan2414"
          x="104.99998"
          y="71.999977"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">İstanbul Yolu</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">İstanbul Yolu</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="94.999985"
        y="61.999977"
        id="text2420"><tspan
@@ -1739,10 +1740,10 @@
          id="tspan2418"
          x="94.999985"
          y="61.999977"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Eryaman 1, 2</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Eryaman 1, 2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="84.999985"
        y="51.999969"
        id="text2424"><tspan
@@ -1750,10 +1751,10 @@
          id="tspan2422"
          x="84.999985"
          y="51.999969"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Eryaman 5</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Eryaman 5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="75.000015"
        y="41.999973"
        id="text2428"><tspan
@@ -1761,14 +1762,14 @@
          id="tspan2426"
          x="75.000015"
          y="41.999973"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">1910 Ankaragücü <tspan
-   style="font-size:2.82222223px;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">1910 Ankaragücü <tspan
+   style="font-size:2.82222223px;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
    id="tspan9937"><tspan
-   style="font-size:3.52777778px"
+   style="font-size:3.52777778px;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
    id="tspan3553">Metromall AVM</tspan>,</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="65.000015"
        y="31.999973"
        id="text2432"><tspan
@@ -1776,10 +1777,10 @@
          id="tspan2430"
          x="65.000015"
          y="31.999973"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Harikalar Diyarı</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Harikalar Diyarı</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;"
        x="55"
        y="21.999981"
        id="text2436"><tspan
@@ -1787,16 +1788,16 @@
          id="tspan2434"
          x="55"
          y="21.999981"
-         style="font-size:5.64444447px;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Fatih <tspan
+         style="font-size:5.64444447px;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Fatih <tspan
    id="tspan3555"
-   style="fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px"> <tspan
-   style="stroke:#000080;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px"
+   style="fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;"> <tspan
+   style="stroke:#000080;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;"
    id="tspan9487">H</tspan> </tspan><tspan
-   style="font-size:3.52777778px;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   style="font-size:3.52777778px;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
    id="tspan9471"> Dr. Nafiz Körez</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="44.999969"
        y="11.999973"
        id="text2440"><tspan
@@ -1804,10 +1805,10 @@
          id="tspan2438"
          x="44.999969"
          y="11.999973"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">GOP</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">GOP</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="35"
        y="1.99998"
        id="text2444"><tspan
@@ -1815,7 +1816,7 @@
          id="tspan2442"
          x="35"
          y="1.99998"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">OSB-Törekent</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">OSB-Törekent</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect1009-3"
@@ -1938,7 +1939,7 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="610.00006"
        y="157.00009"
        id="text2574"><tspan
@@ -1946,10 +1947,10 @@
          id="tspan2572"
          x="610.00006"
          y="157.00009"
-         style="font-size:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Demirlibahçe</tspan></text>
+         style="font-size:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Demirlibahçe</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="635"
        y="171.99997"
        id="text2578"><tspan
@@ -1957,10 +1958,10 @@
          id="tspan2576"
          x="635"
          y="171.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Saimekadın</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Saimekadın</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="650"
        y="186.99997"
        id="text2582"><tspan
@@ -1968,10 +1969,10 @@
          id="tspan2580"
          x="650"
          y="186.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Mamak</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Mamak</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="665"
        y="201.99997"
        id="text2586"><tspan
@@ -1979,10 +1980,10 @@
          id="tspan2584"
          x="665"
          y="201.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Bağderesi</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Bağderesi</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="680"
        y="216.99997"
        id="text2590"><tspan
@@ -1990,10 +1991,10 @@
          id="tspan2588"
          x="680"
          y="216.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Üreğil</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Üreğil</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="695"
        y="231.99997"
        id="text2594"><tspan
@@ -2001,10 +2002,10 @@
          id="tspan2592"
          x="695"
          y="231.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Köstence</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Köstence</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="710"
        y="246.99995"
        id="text2598"><tspan
@@ -2012,10 +2013,10 @@
          id="tspan2596"
          x="710"
          y="246.99995"
-         style="font-size:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Kayaş</tspan></text>
+         style="font-size:5.64444447px;text-align:start;text-anchor:start;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Kayaş</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="684.99994"
        y="267"
        id="text2602"><tspan
@@ -2023,10 +2024,10 @@
          id="tspan2600"
          x="684.99994"
          y="267"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Natoyolu</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Natoyolu</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="674.99994"
        y="257"
        id="text2606"><tspan
@@ -2034,10 +2035,10 @@
          id="tspan2604"
          x="674.99994"
          y="257"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Akşemsettin</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Akşemsettin</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="665"
        y="246.99995"
        id="text2610"><tspan
@@ -2045,10 +2046,10 @@
          id="tspan2608"
          x="665"
          y="246.99995"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Cengizhan</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Cengizhan</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="655"
        y="236.99997"
        id="text2614"><tspan
@@ -2056,10 +2057,10 @@
          id="tspan2612"
          x="655"
          y="236.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Fahri Korutürk</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Fahri Korutürk</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="645"
        y="226.99997"
        id="text2618"><tspan
@@ -2067,10 +2068,10 @@
          id="tspan2616"
          x="645"
          y="226.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Gen. Zeki Doğan</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Gen. Zeki Doğan</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="635"
        y="216.99997"
        id="text2622"><tspan
@@ -2078,10 +2079,10 @@
          id="tspan2620"
          x="635"
          y="216.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Tuzluçayır</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Tuzluçayır</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="625"
        y="206.99997"
        id="text2626"><tspan
@@ -2089,10 +2090,10 @@
          id="tspan2624"
          x="625"
          y="206.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Aşık Veysel</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Aşık Veysel</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="615"
        y="196.99997"
        id="text2630"><tspan
@@ -2100,10 +2101,10 @@
          id="tspan2628"
          x="615"
          y="196.99997"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Abidinpaşa</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Abidinpaşa</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:2.5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:2.5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        x="315.27939"
        y="74.026733"
        id="text1198"
@@ -2112,10 +2113,10 @@
          id="tspan1196"
          x="315.27939"
          y="74.026733"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.26458299;">Yunus Emre</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.26458299;">Yunus Emre</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:2.5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:2.5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        x="315.04385"
        y="64.086845"
        id="text1207"
@@ -2124,10 +2125,10 @@
          id="tspan1205"
          x="315.04385"
          y="64.086845"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.26458299;">TRT Seyir</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.26458299;">TRT Seyir</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:2.5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:2.5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299;"
        x="315.04385"
        y="54.086868"
        id="text1211"
@@ -2136,7 +2137,7 @@
          id="tspan1209"
          x="315.04385"
          y="54.086868"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.26458299;">Şentepe</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.26458299;">Şentepe</tspan></text>
     <rect
        transform="rotate(-45)"
        y="275.71268"
@@ -2211,69 +2212,69 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="380"
        y="141.99998"
        id="text1716-3-8"><tspan
          sodipodi:role="line"
          x="380"
          y="141.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-7-3">Hipodrom</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="330"
        y="141.99998"
        id="text1716-3-4"><tspan
          sodipodi:role="line"
          x="330"
          y="141.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-7-2">Gazi Mahallesi</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="280"
        y="141.99998"
        id="text1716-3-2"><tspan
          sodipodi:role="line"
          x="280"
          y="141.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-7-4">Gazi (AOÇ)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="229.99997"
        y="141.99998"
        id="text1716-3-5"><tspan
          sodipodi:role="line"
          x="229.99997"
          y="141.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-7-1">Motor Durağı</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="179.99997"
        y="141.99998"
        id="text1716-3-7"><tspan
          sodipodi:role="line"
          x="179.99997"
          y="141.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-7-16">Behiçbey</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="129.99997"
        y="141.99998"
        id="text1716-3-9"><tspan
          sodipodi:role="line"
          x="129.99997"
          y="141.99998"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-7-8">Havadurağı</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -2325,7 +2326,7 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="-320"
        y="77.000008"
        id="text2850"><tspan
@@ -2333,10 +2334,10 @@
          id="tspan2848"
          x="-320"
          y="81.563599"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="50"
        y="71.999977"
        id="text2854"><tspan
@@ -2344,10 +2345,10 @@
          id="tspan2852"
          x="50"
          y="71.999977"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Sincan</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Sincan</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="60.000031"
        y="81.999977"
        id="text2858"><tspan
@@ -2355,10 +2356,10 @@
          id="tspan2856"
          x="60.000031"
          y="81.999977"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Lale</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Lale</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="69.999985"
        y="91.999977"
        id="text2862"><tspan
@@ -2366,10 +2367,10 @@
          id="tspan2860"
          x="69.999985"
          y="91.999977"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Elvankent</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Elvankent</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="79.999985"
        y="101.99999"
        id="text2866"><tspan
@@ -2377,10 +2378,10 @@
          id="tspan2864"
          x="79.999985"
          y="101.99999"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Eryaman YHT Gar</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Eryaman YHT Gar</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="89.999985"
        y="111.99999"
        id="text2870"><tspan
@@ -2388,10 +2389,10 @@
          id="tspan2868"
          x="89.999985"
          y="111.99999"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Özgüneş</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Özgüneş</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="99.999985"
        y="121.99999"
        id="text2874"><tspan
@@ -2399,7 +2400,7 @@
          id="tspan2872"
          x="99.999985"
          y="121.99999"
-         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Etimesgut</tspan></text>
+         style="font-size:5.64444447px;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Etimesgut</tspan></text>
     <path
        style="fill:#000000;stroke-width:0.03388276"
        d="m 108.52908,114.65647 c -0.0394,-0.0168 -0.08,-0.0514 -0.0905,-0.0783 -0.0159,-0.0418 0.17204,-1.02801 0.23182,-1.2165 0.018,-0.0559 -0.006,-0.0613 -0.28602,-0.0613 h -0.30547 l 0.0371,-0.11012 c 0.0785,-0.23363 0.059,-0.22876 0.89658,-0.22876 0.41642,0 0.75711,0.009 0.75711,0.0199 0,0.0674 -0.1078,0.25399 -0.16426,0.28417 -0.0376,0.0199 -0.16585,0.0366 -0.28508,0.0366 h -0.21667 l -0.12465,0.58445 c -0.0686,0.32148 -0.13404,0.63406 -0.14564,0.69459 -0.018,0.097 -0.0334,0.10979 -0.12664,0.10813 -0.0582,-0.001 -0.13804,-0.0167 -0.17746,-0.0312 m 1.48175,-0.0185 c -0.16026,-0.0497 -0.32083,-0.18281 -0.39699,-0.32877 -0.12365,-0.23665 -0.0141,-0.71503 0.22618,-0.98801 0.49015,-0.55683 1.56802,-0.50846 1.71663,0.0767 0.0221,0.0874 0.0234,0.14629 0.002,0.15883 -0.0635,0.0394 -0.21493,-0.0276 -0.35409,-0.15582 -0.4351,-0.40106 -1.22912,-0.0336 -1.23217,0.57079 -0.001,0.27685 0.27053,0.44985 0.62383,0.39687 0.14547,-0.0217 0.22394,-0.0661 0.47503,-0.2689 0.1431,-0.11563 0.42514,-0.168 0.42514,-0.0793 0,0.0782 -0.20214,0.32862 -0.36673,0.45414 -0.0796,0.0606 -0.22285,0.13356 -0.31858,0.16184 -0.2123,0.0632 -0.6007,0.0636 -0.80126,9.8e-4 m 1.7589,0.0222 c -0.15782,-0.044 -0.15799,-0.14328 -0.002,-0.88929 0.0819,-0.39201 0.16687,-0.71552 0.19678,-0.7492 0.0463,-0.0519 0.12252,-0.0596 0.61754,-0.0596 0.54881,0 0.56983,0.001 0.74862,0.0932 0.14345,0.0725 0.20125,0.12688 0.26238,0.24558 0.20543,0.39951 -0.0603,1.01657 -0.5367,1.24533 -0.0835,0.0399 -0.25072,0.0885 -0.37186,0.10835 -0.24337,0.0392 -0.78265,0.0423 -0.91453,0.007 m 1.03536,-0.37854 c 0.37983,-0.12552 0.52703,-0.77101 0.21288,-0.93352 -0.0932,-0.0482 -0.74053,-0.0722 -0.74053,-0.0276 0,0.0113 -0.0456,0.24098 -0.10162,0.50974 -0.0559,0.26888 -0.10162,0.49284 -0.10162,0.49783 0,0.0244 0.63953,-0.0167 0.73093,-0.0466 m 1.00652,0.373 c -0.0415,-0.0168 -0.0855,-0.0708 -0.098,-0.11999 -0.0292,-0.11614 0.24761,-1.43336 0.31815,-1.51419 0.0456,-0.0519 0.12087,-0.0596 0.61638,-0.0596 0.54883,0 0.56985,10e-4 0.74865,0.0932 0.25182,0.12771 0.34798,0.30765 0.32586,0.61009 -0.0382,0.52117 -0.42405,0.91232 -0.97918,0.99259 -0.26924,0.0394 -0.83298,0.0375 -0.93208,-10e-4 m 1.05804,-0.37258 c 0.3893,-0.14948 0.53248,-0.77091 0.21535,-0.9349 -0.0932,-0.0482 -0.74049,-0.0722 -0.74049,-0.0276 0,0.0113 -0.0457,0.24098 -0.10185,0.50974 -0.0559,0.26888 -0.10162,0.49798 -0.10162,0.50923 0,0.0334 0.61855,-0.0135 0.72846,-0.0565 m -3.36689,-2.37551 c -0.66055,-0.1014 -1.37159,-0.57139 -1.74075,-1.151 -0.54089,-0.84929 -0.52646,-1.94565 0.0364,-2.76525 0.15745,-0.2293 0.41247,-0.50094 0.58198,-0.6199 l 0.11865,-0.083 -0.12503,0.15465 c -0.19387,0.23935 -0.35166,0.53022 -0.43899,0.80864 -0.10284,0.32773 -0.11044,0.92122 -0.0159,1.23672 0.21522,0.71866 0.81172,1.31043 1.49971,1.48792 0.26391,0.068 0.71853,0.0688 0.97595,10e-4 0.54935,-0.14309 1.08031,-0.58048 1.33548,-1.10021 0.39047,-0.79521 0.30317,-1.65268 -0.2405,-2.36203 -0.16569,-0.21628 -0.16821,-0.22254 -0.0574,-0.14428 0.28429,0.20031 0.63121,0.63406 0.79688,0.9959 0.34251,0.74815 0.27503,1.67031 -0.1744,2.38214 -0.32952,0.522 -0.92124,0.95232 -1.5261,1.10985 -0.25528,0.0663 -0.75393,0.09 -1.02596,0.0482 m 0.39935,-1.1916 c -0.10107,-0.0778 -0.13256,-0.18937 -0.13256,-0.47275 0,-0.17562 -0.0168,-0.299 -0.0405,-0.32414 -0.0292,-0.0292 -0.25355,-0.0405 -0.79539,-0.0405 h -0.75471 l -0.0516,-0.10007 c -0.0285,-0.0549 -0.0516,-0.10846 -0.0516,-0.11863 0,-0.0112 0.19824,-0.02 0.44045,-0.02 0.24228,0 0.44051,-0.0112 0.44051,-0.0271 0,-0.0135 -0.0238,-0.0601 -0.0528,-0.10173 -0.0498,-0.0709 -0.0773,-0.0755 -0.47236,-0.0755 -0.23079,0 -0.42662,-0.0113 -0.43516,-0.0244 -0.008,-0.0135 -0.0207,-0.0715 -0.0274,-0.12721 l -0.012,-0.10173 h 0.3812 c 0.20965,0 0.38119,-0.0111 0.38119,-0.0272 -3e-5,-0.0135 -0.0374,-0.0645 -0.0832,-0.11012 -0.076,-0.0762 -0.10945,-0.0834 -0.38967,-0.0834 h -0.30647 v -0.11851 -0.11887 h 0.25532 c 0.25405,0 0.25511,-3.7e-4 0.21516,-0.0761 -0.0574,-0.10846 -0.0947,-0.12603 -0.27566,-0.1267 -0.16705,-5.6e-4 -0.17906,-0.0135 -0.13963,-0.16135 0.02,-0.0722 0.0374,-0.0759 0.33461,-0.0759 0.25022,0 0.32831,0.0113 0.38354,0.0596 0.0382,0.0327 0.20948,0.31089 0.38068,0.61841 0.17141,0.30746 0.32651,0.57808 0.34513,0.60139 0.0179,0.0244 0.0822,0.0423 0.14126,0.0423 0.0843,0 0.14461,0.038 0.28385,0.17878 l 0.1766,0.17881 v 0.39711 c 0,0.41104 -0.0134,0.4486 -0.1384,0.35359 m -3.56423,-0.92122 c -0.0696,-0.0473 -0.12642,-0.10074 -0.12642,-0.11862 0,-0.02 0.2155,-0.0328 0.53843,-0.0328 h 0.5384 l 0.014,0.11862 0.014,0.11862 h -0.4258 c -0.39999,0 -0.43348,-0.007 -0.55227,-0.0861 m 3.60462,-0.1052 -0.1738,-0.19138 v -0.40163 c 0,-0.22933 0.0134,-0.40157 0.032,-0.40157 0.0179,0 0.0747,0.0369 0.12704,0.0822 0.0906,0.0778 0.0958,0.098 0.10659,0.41982 0.0117,0.33197 0.0134,0.3401 0.12368,0.44681 l 0.11215,0.10846 0.1339,-0.23201 c 0.0738,-0.1277 0.25253,-0.44229 0.3977,-0.69919 0.14528,-0.25699 0.29131,-0.48185 0.32482,-0.49976 0.0339,-0.02 0.19735,-0.0327 0.36413,-0.0327 0.28582,0 0.3044,0.007 0.32365,0.0761 0.0395,0.14745 0.0276,0.16085 -0.13959,0.16169 -0.18118,5.8e-4 -0.21836,0.02 -0.27565,0.12669 -0.04,0.0761 -0.0388,0.0761 0.21518,0.0761 h 0.25529 v 0.11862 0.11863 h -0.30655 c -0.28831,0 -0.31152,0.007 -0.38998,0.09 -0.0457,0.0497 -0.0767,0.0963 -0.0689,0.10482 0.009,0.009 0.1798,0.0167 0.38154,0.02 l 0.36682,0.007 -0.0112,0.10173 c -0.007,0.0559 -0.0179,0.11277 -0.0274,0.12704 -0.009,0.0135 -0.20437,0.0244 -0.43517,0.0244 -0.3952,0 -0.42264,0.007 -0.47235,0.0755 -0.029,0.0415 -0.0527,0.0874 -0.0527,0.10162 0,0.0135 0.19987,0.0275 0.4441,0.0275 0.40965,0 0.44221,0.007 0.41968,0.0596 -0.0135,0.0327 -0.032,0.0862 -0.0415,0.11863 -0.0167,0.0543 -0.0827,0.0596 -0.78809,0.0596 h -0.77109 m 2.3965,-0.12182 v -0.11864 h 0.54211 c 0.32535,0 0.54213,0.0135 0.54213,0.0329 0,0.0199 -0.0567,0.0714 -0.12653,0.11863 -0.11851,0.0806 -0.15299,0.0861 -0.54213,0.0861 h -0.23177 a 5.0000001,5.0000001 0 0 1 -0.36728,-0.0135 m -6.33898,-0.46689 c -0.0934,-0.0517 -0.22023,-0.16961 -0.22023,-0.20465 0,-0.0167 0.33545,-0.0276 0.74542,-0.0244 l 0.74542,0.001 v 0.13304 0.1329 l -0.60142,-0.001 c -0.37405,-6.6e-4 -0.62704,-0.0167 -0.66919,-0.0385 m 6.56275,-0.0859 0.01,-0.12721 0.73697,-0.009 c 0.40532,-0.007 0.73696,0.001 0.73696,0.02 0,0.0373 -0.1319,0.15683 -0.22649,0.20574 -0.0466,0.0242 -0.2953,0.0382 -0.67123,0.0382 h -0.39864 a 5.0000001,5.0000001 0 0 1 -0.39648,-0.0157 m -6.87642,-0.547 c -0.0574,-0.0482 -0.10427,-0.10173 -0.10427,-0.11862 0,-0.02 0.42106,-0.0308 1.00019,-0.0308 h 1.0002 l -0.0222,0.0932 c -0.012,0.0514 -0.0286,0.1046 -0.0366,0.11862 -0.008,0.0135 -0.40099,0.0244 -0.87367,0.0244 h -0.8594 m 6.92579,-0.0415 c -0.009,-0.0244 -0.0204,-0.0766 -0.0296,-0.1185 l -0.0167,-0.0761 h 0.99636 c 0.57688,0 0.9964,0.0135 0.9964,0.0308 0,0.0168 -0.0467,0.0705 -0.10427,0.11862 l -0.10427,0.0878 h -0.86247 c -0.66054,0 -0.8655,-0.0112 -0.87532,-0.0421 m -7.46527,-0.51628 -0.12663,-0.11764 1.29602,-9.2e-4 c 0.71281,-5.3e-4 1.296,0.007 1.296,0.0113 0,0.007 -0.0159,0.0599 -0.0372,0.11864 l -0.0372,0.10668 h -1.13225 -1.13225 m 7.20897,-0.06 c -0.01,-0.0327 -0.028,-0.0863 -0.0415,-0.11862 -0.023,-0.0557 0.0505,-0.0596 1.27522,-0.058 l 1.29963,9.3e-4 -0.1267,0.11763 -0.1267,0.11763 h -1.13162 c -1.04864,0 -1.13286,-0.007 -1.14869,-0.0596 m -2.59812,-1.74916 c -0.0761,-0.24286 -0.0826,-0.2518 -0.20101,-0.27129 -0.0673,-0.0111 -0.19617,-0.0216 -0.28654,-0.0216 l -0.16419,-3.8e-4 0.21513,-0.15883 c 0.11832,-0.0874 0.2205,-0.16252 0.22705,-0.16741 0.007,-0.007 -0.0216,-0.10945 -0.0628,-0.23284 -0.0412,-0.12374 -0.0671,-0.23231 -0.0579,-0.2415 0.01,-0.009 0.0984,0.0447 0.19818,0.12061 0.1,0.0757 0.18978,0.13759 0.20018,0.13759 0.01,10e-5 0.11599,-0.0681 0.23476,-0.15164 0.11867,-0.0836 0.22023,-0.14763 0.22541,-0.1426 0.007,0.007 -0.0262,0.12518 -0.0702,0.26699 l -0.0795,0.25748 0.22438,0.16476 a 5.0000001,5.0000001 0 0 0 3.2e-4,2.3e-4 l 0.22439,0.16473 -0.27685,0.0113 -0.27683,0.0113 -0.0744,0.22743 c -0.0407,0.12486 -0.0847,0.23906 -0.0979,0.25343 -0.0133,0.0135 -0.0589,-0.0867 -0.10228,-0.22499 z"
@@ -2422,7 +2423,7 @@
        ry="0.80658495" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#55ffdd;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#55ffdd;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="500"
        y="133.40041"
        id="text3414"><tspan
@@ -2430,11 +2431,11 @@
          id="tspan3412"
          x="500"
          y="133.40041"
-         style="font-size:4.93888903px;fill:#55ffdd;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Gençlik</tspan><tspan
+         style="font-size:4.93888903px;fill:#55ffdd;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Gençlik</tspan><tspan
          sodipodi:role="line"
          x="500"
          y="138.33929"
-         style="font-size:4.93888903px;fill:#55ffdd;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:4.93888903px;fill:#55ffdd;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan3416">Parkı</tspan></text>
     <rect
        transform="rotate(-45)"
@@ -2447,64 +2448,69 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/tbmm.png"
        xlink:href="./resim/tbmm.png"
-       y="29.499998"
-       x="690"
-       id="image4791"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="22.5"
-       width="30"
+       transform="translate(-140.29705,63.810362)"
        clip-path="url(#clipPath1279-4)"
-       transform="translate(-140.29705,63.810362)" />
+       width="30"
+       height="22.5"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4791"
+       x="690"
+       y="29.499998" />
     <text
        id="text4796"
        y="116.99997"
        x="550"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
          y="116.99997"
          x="550"
          sodipodi:role="line"
          id="tspan9945">I. TBMM Binası </tspan><tspan
          id="tspan2012"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
          y="120.99997"
          x="550"
          sodipodi:role="line">1<tspan
-   style="font-size:3.52777778px;baseline-shift:super;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Inter;-inkscape-font-specification:Inter;baseline-shift:super"
    id="tspan3547">st</tspan><tspan
    id="tspan1463"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';baseline-shift:super;fill:#000000;stroke:#ffffff;stroke-width:1;"> </tspan>Parliament Building </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;baseline-shift:super;fill:#000000;stroke:#ffffff;stroke-width:1"> </tspan>Parliament</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
          y="124.99997"
+         x="550"
+         sodipodi:role="line"
+         id="tspan1257">Building </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         y="128.99997"
          x="550"
          sodipodi:role="line"
          id="tspan9954">275m</tspan></text>
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/19-mayis-stadyum.png"
        xlink:href="./resim/19-mayis-stadyum.png"
-       y="6.5928574"
-       x="690"
-       id="image4902"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="15.407143"
-       width="30"
+       transform="translate(-175.30833,95.479252)"
        clip-path="url(#clipPath1285-7)"
-       transform="translate(-175.30833,95.479252)" />
+       width="30"
+       height="15.407143"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4902"
+       x="690"
+       y="6.5928574" />
     <text
        id="text4909"
        y="116.99997"
        x="515"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
        xml:space="preserve"><tspan
          id="tspan1447"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
          y="116.99997"
          x="515"
          sodipodi:role="line">19 Mayıs Stadyumu</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
          y="120.99997"
          x="515"
          sodipodi:role="line"
@@ -2512,34 +2518,34 @@
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/ank-spor-salonu.png"
        xlink:href="./resim/ank-spor-salonu.png"
-       y="96.999969"
-       x="585"
-       id="image4927"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="30.000002"
        height="20"
-       width="30.000002" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4927"
+       x="585"
+       y="96.999969" />
     <text
        id="text1122"
        y="117.25"
        x="585"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;"
        xml:space="preserve"><tspan
          id="tspan1124"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;font-size:3.52777778px;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;font-size:3.52777778px;"
          y="117.25"
          x="585"
          sodipodi:role="line">Ankara Spor Salonu</tspan><tspan
          id="tspan1451"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:4px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;font-size:3.52777778px;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:4px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;font-size:3.52777778px;"
          y="121.25"
          x="585"
          sodipodi:role="line"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;stroke-width:1;stroke:#ffffff;font-size:3.52777778px;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;stroke-width:1;stroke:#ffffff;font-size:3.52777778px;"
    id="tspan1400">Sports Hall </tspan>750m </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="466.75577"
        y="191.96892"
        id="text8277"><tspan
@@ -2547,10 +2553,10 @@
          id="tspan8275"
          x="466.75577"
          y="191.96892"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;stroke-width:0.26458332">[350m] Ankara Üni.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;text-anchor:end;stroke-width:0.26458332;">[350m] Ankara Üni.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="440"
        y="177"
        id="text8401"><tspan
@@ -2558,22 +2564,22 @@
          id="tspan8399"
          x="440"
          y="177"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;text-anchor:middle;stroke-width:0.26458332">Gazi Üni.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;stroke-width:0.26458332;">Gazi Üni.</tspan></text>
     <image
        sodipodi:absref="/home/asyncsus/metro-map/resim/anitkabir.png"
        xlink:href="resim/anitkabir.png"
-       y="172"
-       x="495"
-       id="image1102"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="15.675001"
-       width="30"
+       transform="matrix(1.2,0,0,1.2,-202,-27.093288)"
        clip-path="url(#clipPath1498)"
-       transform="matrix(1.2,0,0,1.2,-202,-27.093288)" />
+       width="30"
+       height="15.675001"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1102"
+       x="495"
+       y="172" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="410"
        y="177"
        id="text8786"><tspan
@@ -2581,59 +2587,59 @@
          id="tspan8784"
          x="410"
          y="177"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:0.26458332">[350m] Anıtkabir</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.26458332;">[350m] Anıtkabir</tspan><tspan
          sodipodi:role="line"
          x="410"
          y="180.52777"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.26458332;"
          id="tspan3388">(Anıt Cd üzerinden)</tspan></text>
     <image
        sodipodi:absref="/home/asyncsus/metro-map/resim/asti.png"
        xlink:href="resim/asti.png"
-       transform="translate(-64.94389,8.8913326)"
-       clip-path="url(#clipPath623)"
-       y="173.1144"
-       x="378.08115"
-       id="image1389"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="30"
        height="20.000002"
-       width="30" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image1389"
+       x="378.08115"
+       y="173.1144"
+       clip-path="url(#clipPath623)"
+       transform="translate(-64.94389,8.8913326)" />
     <text
        id="text1074"
        y="202.00002"
        x="340"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
        xml:space="preserve"><tspan
          id="tspan1076"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;text-anchor:end;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
          y="202.00002"
          x="340"
          sodipodi:role="line">Şehirlerarası Otobüs Terminali</tspan><tspan
          id="tspan2481"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:end;text-anchor:end;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;text-anchor:end;fill:#000000;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
          y="204.82224"
          x="340"
          sodipodi:role="line">Intercity Bus Terminal</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="340"
        y="232.00003"
        id="text9207"><tspan
          sodipodi:role="line"
          x="340"
          y="232.00003"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;text-anchor:start;stroke-width:0.26458332;"
          id="tspan9213">Çukurambar</tspan><tspan
          sodipodi:role="line"
          x="340"
          y="235.5278"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:100%;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;text-anchor:start;stroke-width:0.26458332;"
          id="tspan9217">Armada AVM</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="470"
        y="232"
        id="text9341"><tspan
@@ -2641,15 +2647,15 @@
          id="tspan9339"
          x="470"
          y="232"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:0.26458332">Necatibey Caddesi,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.26458332;">Necatibey Caddesi,</tspan><tspan
          sodipodi:role="line"
          x="470.4892"
          y="235.52777"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.26458332;"
          id="tspan9343">Hava Kuvvetleri Komutanlığı─Air Force Command </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="405"
        y="232.00003"
        id="text9347"><tspan
@@ -2657,44 +2663,44 @@
          id="tspan9345"
          x="405"
          y="232.00003"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';stroke-width:0.26458332">Bahçelievler</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.26458332;">Bahçelievler</tspan></text>
     <text
        id="text1619"
        y="101.36692"
        x="264.88309"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;text-anchor:middle;fill:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;fill:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;"
          y="101.36692"
          x="264.88309"
          id="tspan1617"
          sodipodi:role="line">450m  <tspan
    id="tspan6493"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;font-size:3.52777778px;">H</tspan>  Onkoloji</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;font-size:3.52777778px;">H</tspan>  Onkoloji</tspan></text>
     <image
        sodipodi:absref="/home/asyncsus/metro-map/./resim/eryaman-stad.png"
        xlink:href="./resim/eryaman-stad.png"
-       y="25.124992"
-       x="147.11665"
-       id="image4854"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="30.000002"
        height="16.875"
-       width="30.000002" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4854"
+       x="149.76245"
+       y="25.124992" />
     <text
        id="text4859"
        y="42.000008"
-       x="147.11664"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2.5px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="149.76244"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2.5px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          y="42.000008"
-         x="147.11664"
+         x="149.76244"
          id="tspan4857"
          sodipodi:role="line">Eryaman Stadyumu</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="140"
        y="42.000008"
        id="text9969"><tspan
@@ -2702,7 +2708,7 @@
          id="tspan9967"
          x="140"
          y="44.281803"
-         style="stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
+         style="stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect1712-6-6"
@@ -2713,14 +2719,14 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5.64444447px;font-family:Inter;-inkscape-font-specification:Inter;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="375.00003"
        y="117"
        id="text1716-3-89"><tspan
          sodipodi:role="line"
          x="375.00003"
          y="117"
-         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:'TeX Gyre Heros';font-family:'TeX Gyre Heros';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-size:5.64444447px;line-height:5.64444447px;text-align:center;text-anchor:middle;stroke-width:0.26458332;-inkscape-font-specification:Inter;font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan1714-7-0">Akköprü</tspan></text>
   </g>
 </svg>
